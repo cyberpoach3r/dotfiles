@@ -1,0 +1,8 @@
+# Case-insensitive completion
+set completion-ignore-case on
+
+# Immediately show all matches when ambiguous
+set show-all-if-ambiguous on
+
+# Show hidden files without typing . first
+set match-hidden-files on
