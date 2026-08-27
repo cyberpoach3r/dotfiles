@@ -27,3 +27,5 @@ if !isdirectory($HOME."/.vim/undo-dir")
 endif
 set undodir=$HOME/.vim/undo-dir
 set undofile
+
+autocmd FileType make set noexpandtab
